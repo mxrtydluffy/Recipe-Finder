@@ -2,4 +2,4 @@
 
 SPD 1.3 Recipe project
 
-Collaborators: Marty & Sharmaine
+Collaborators: Marty & Sharmaine & Paloma
