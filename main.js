@@ -1,3 +1,4 @@
+// need to add js file to Paloma's file
 // need to add search id name to Paloma's landing page
 // will probably change this later to getElementByID
 // but works for now
