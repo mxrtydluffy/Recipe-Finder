@@ -1,4 +1,4 @@
-let searchBtn = document.getElementById('search')
+let searchBtn = document.getElementById('search-btn')
 
 searchBtn.addEventListener('click', ()=>{
     console.log('Button Clicked!')
@@ -20,8 +20,8 @@ async function getRecipeData(){
 }
 
 
-// function that'll do something with the data recieved from the API.
-// temporary html content to show API
+// // function that'll do something with the data recieved from the API.
+// // temporary html content to show API
 function setRecipeData(data){
 	document.querySelector('#content').innerHTML = `
 	<div class="card mx-auto mt-3" style="width: 230px;">
