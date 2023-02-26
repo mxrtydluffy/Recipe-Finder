@@ -33,11 +33,24 @@
     padding: 20px;
   }
   
-  .title {
+  .title{
     text-align: center;
-    font-size: 4rem;
     color: #f1f1f1;
     margin-bottom: 30px;
+    line-height: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .title > span {
+    font-size: 6rem;
+  }
+  .other-title {
+    text-align: center;
+    font-size: 4rem;
+    color: #edc241;
+    margin-bottom: 30px;
+    line-height: 20px;
   }
   
   form {
