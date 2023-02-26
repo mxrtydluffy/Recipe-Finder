@@ -31,10 +31,11 @@ function displayResults(results){
           <a class="view-btn" target="_blank" href="${result.recipe.url}">View Recipe</a>
         </div>
         <p class="item-data">Calories: ${result.recipe.calories.toFixed(0)}</p>
-        <p class="item-data">Diet Label: ${result.recipe.dietLabels.length > 0 ? result.recipe.dietLabels : 'Sorry, No Data Found.'}</p>
-        <p class="item-data">Health Labels: ${result.recipe.healthLabels}</p>
+        <p class="item-data">Diet Label: ${result.recipe.dietLabels.length > 0 ? result.recipe.dietLabels : 'Sorry, No Data Found.'}</p>  
       </div>
     `
   })
   usersSearchResults.innerHTML = resultsHTML;
 }
+
+// <p class="item-data">Health Labels: ${result.recipe.healthLabels}</p>
