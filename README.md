@@ -1,8 +1,9 @@
-# SPD 1.3: Recipe Finder
-
-SPD 1.3 Recipe project
+# SPD 1.3: Recipe Finder Project
 
 Collaborators: Marty & Sharmaine & Paloma
 
 ## Overview
-Application that references from an API to get various recipes based on user search.
+Food App that references from an API to get various recipes based on user search. Browse any food and get immediate results!
+
+### Credits
+API information from [Edamam](https://www.edamam.com).
