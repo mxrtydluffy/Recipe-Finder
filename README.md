@@ -14,4 +14,3 @@ Save time by finding your next recipe using Rapid Recipes!
 
 ![search page](images/search-page.png)
 ![result page](images/result-page.png)
-
