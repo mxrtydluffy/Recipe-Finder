@@ -1,6 +1,4 @@
-# SPD 1.3: Recipe Finder
-
-SPD 1.3 Recipe project
+# SPD 1.3: Recipe Finder Project
 
 Collaborators: Marty & Sharmaine & Paloma
 
